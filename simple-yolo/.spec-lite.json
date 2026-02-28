@@ -1,0 +1,34 @@
+{
+  "version": "0.0.6",
+  "provider": "copilot",
+  "installedPrompts": [
+    "architect",
+    "brainstorm",
+    "code_review",
+    "data_modeller",
+    "devops",
+    "explore",
+    "feature",
+    "fix",
+    "implement",
+    "integration_tests",
+    "memorize",
+    "performance_review",
+    "planner",
+    "readme",
+    "security_audit",
+    "spec_help",
+    "technical_docs",
+    "unit_tests",
+    "yolo"
+  ],
+  "installedAt": "2026-02-28T03:42:18.995Z",
+  "updatedAt": "2026-02-28T03:42:18.996Z",
+  "projectProfile": {
+    "language": "TypeScript",
+    "frameworks": "None / not sure yet",
+    "testFramework": "Not decided yet",
+    "architecture": "Monolith",
+    "conventions": ""
+  }
+}

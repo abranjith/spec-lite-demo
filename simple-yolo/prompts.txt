@@ -1,0 +1,6 @@
+<yolo agent> build me a simple to-do app using latest HTML technologies (simple, CSS, JS) in a single html file which has below features,
+1) Create todo tasks
+2) Mark them as done - which grays them out and also strikes out 
+3) For completed tasks show trash icon to delete permanently
+4) Just use browser local storage
+5) Responsive & intuitive with pleasing animations & gray tones
