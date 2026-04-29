@@ -1,0 +1,46 @@
+{
+  "version": "0.1.1",
+  "format": "v2",
+  "provider": "claude-code",
+  "installedPrompts": [
+    "architect",
+    "brainstorm",
+    "explore",
+    "plan",
+    "plan-feature",
+    "yolo",
+    "build-data-model",
+    "devops",
+    "feature",
+    "fix",
+    "implement",
+    "memorize",
+    "plan-critic",
+    "review-code",
+    "review-performance",
+    "review-security",
+    "todo",
+    "tool-help",
+    "write-integration-tests",
+    "write-readme",
+    "write-unit-tests",
+    "help",
+    "orchestrator"
+  ],
+  "installedAt": "2026-04-29T03:54:12.630Z",
+  "updatedAt": "2026-04-29T03:54:12.631Z",
+  "projectProfile": {
+    "languages": [
+      "TypeScript"
+    ],
+    "frameworks": [
+      "React",
+      "Express"
+    ],
+    "testFrameworks": [],
+    "architectures": [
+      "Monorepo"
+    ],
+    "conventions": ""
+  }
+}

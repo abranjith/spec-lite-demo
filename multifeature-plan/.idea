@@ -1,0 +1,11 @@
+Requirements
+=============
+I need an app that can manage my tasks and help me stay organized. 
+It should have features like creating and maintaining to-do lists with optional deadlines, setting reminders, and categorizing tasks. 
+The app should also have a user-friendly interface and be accessible on both desktop and mobile devices.
+
+Technical Specifications
+========================
+1. React for the frontend, with a clean and intuitive UI.
+2. Node.js and Express for the backend API, handling task management and user authentication.
+3. MongoDB for the database to store user data and tasks.
